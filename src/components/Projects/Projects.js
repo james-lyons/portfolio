@@ -15,7 +15,7 @@ const Projects = (props) => {
                     </div>
                     <div className="row">
                         <div className="col-md-6">
-                            <div className="projects-article" augmented-ui="bl-clip r-clip-y br-round br-inset-clean exe">
+                            <div className="projects-div" augmented-ui="bl-clip r-clip-y br-round br-inset-clean exe">
                                 <div className="projects-img" >
                                     <img src="../../assets/images/Git-Sum-Dim-Sum.png" alt="" className="img-fluid" />
                                 </div>
@@ -33,7 +33,7 @@ const Projects = (props) => {
                             </div>
                         </div>
                         <div className="col-md-6">
-                            <div className="projects-article" augmented-ui="bl-clip r-clip-y br-round br-inset-clean exe">
+                            <div className="projects-div" augmented-ui="bl-clip r-clip-y br-round br-inset-clean exe">
                                 <div className="projects-img">
                                     <img src="../../assets/images/legal-eagles.png" alt="" className="img-fluid" />
                                 </div>
@@ -51,7 +51,7 @@ const Projects = (props) => {
                             </div>
                         </div>
                         <div className="col-md-6">
-                            <div className="projects-article" augmented-ui="bl-clip r-clip-y br-round br-inset-clean exe">
+                            <div className="projects-div" augmented-ui="bl-clip r-clip-y br-round br-inset-clean exe">
                                 <div className="projects-img">
                                     <img src="../../assets/images/karuta.png" alt="" className="img-fluid" />
                                 </div>

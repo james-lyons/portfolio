@@ -342,8 +342,8 @@ Projects
 	word-wrap: break-word;
 }
 
-.projects-article {
-	margin-bottom: 3rem;
+.projects-div {
+	margin: 3rem 2rem;
 	-webkit-backface-visibility: hidden;
 	backface-visibility: hidden;
 	background-color: black;
@@ -363,7 +363,7 @@ Projects
 	padding: 2rem 1rem;
 }
 
-.projects-article:hover img {
+.projects-div:hover img {
 	-webkit-transform: scale(1.3);
 	transform: scale(1.3);
 }
