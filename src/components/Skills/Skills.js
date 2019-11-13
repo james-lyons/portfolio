@@ -4,8 +4,8 @@ import '../../Styles.css';
 const Skills = (props) => {
     return (
         <>
-            <section id="work" className="portfolio-mf sect-pt4 route">
-                <div className="container">
+            <section id="skills">
+                <div id="skills-container" className="container">
                     <div className="row">
                         <div className="col-sm-12">
                             <div className="title-box text-center">
@@ -13,9 +13,9 @@ const Skills = (props) => {
                             </div>
                         </div>
                     </div>
-                    <div className="row skills-row">
+                    <div className="row">
                         <div className="col-md-6">
-                            <div className="service-box skills-div" augmented-ui="bl-clip r-clip-y br-round br-inset-clean exe">
+                            <div className="skills-div" augmented-ui="bl-clip r-clip-y br-round br-inset-clean exe">
                                 <div className="col-sm-12">
                                     <h3 className="skills-h3">Languages and Frameworks</h3>
                                     <p className="col-md-12 skills-p">CSS, HTML, JavaScript, React, Redux, Ajax, jQuery, Node, Express, Python, Django, Flask</p>
@@ -35,7 +35,7 @@ const Skills = (props) => {
                             </div>
                         </div>
                         <div className="col-md-6">
-                            <div className="service-box skills-div" augmented-ui="bl-clip r-clip-y br-round br-inset-clean exe">
+                            <div className="skills-div" augmented-ui="bl-clip r-clip-y br-round br-inset-clean exe">
                                 <div className="col-sm-12">
                                     <h3 className="skills-h3">Databases</h3>
                                     <p className="col-md-12 skills-p">MongoDB, Postgres, NoSQL, SQL, </p>
@@ -49,7 +49,7 @@ const Skills = (props) => {
                             </div>
                         </div>
                         <div className="col-md-6">
-                            <div className="service-box skills-div" augmented-ui="bl-clip r-clip-y br-round br-inset-clean exe">
+                            <div className="skills-div" augmented-ui="bl-clip r-clip-y br-round br-inset-clean exe">
                                 <div className="col-sm-12">
                                     <h3 className="skills-h3">Management and Deployment</h3>
                                     <p className="col-sm-12 skills-p">Git, GitHub, Heroku, CommandLine</p>
@@ -63,7 +63,7 @@ const Skills = (props) => {
                             </div>
                         </div>
                         <div className="col-md-6">
-                            <div className="service-box skills-div" augmented-ui="bl-clip r-clip-y br-round br-inset-clean exe">
+                            <div className="skills-div" augmented-ui="bl-clip r-clip-y br-round br-inset-clean exe">
                                 <div className="col-sm-12">
                                     <h3 className="skills-h3">Methodologies</h3>
                                     <p className="col-sm-12 skills-p">User Stories, Wire Framing, Object-Oriented Programming, Functional Programming, Response Design, </p>
