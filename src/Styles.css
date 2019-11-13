@@ -172,23 +172,6 @@ header h2 {
     border: 2px solid white;
 }
 
-.header-h1 {
-	color: white;
-	font-size: 3em;
-}
-
-.header-h2 {
-    color: white;
-}
-
-#type-writer {
-	font-size: 3em;
-	font-weight: 600; 
-	color: whitesmoke;
-	margin: 0 auto 1em;;
-	padding: 0;
-}
-
 /* ----------------------------------------
 Header
 ------------------------------------------- */
@@ -206,13 +189,13 @@ header {
 }
 
 .header-h1 {
-	font-size: 3rem;
+	font-size: 4.5rem;
 	margin-bottom: 1rem;
 	color: whitesmoke;
 }
 
 .typing-span {
-	font-size: 2rem;
+	font-size: 3rem;
 	color: whitesmoke;
 }
 
@@ -271,6 +254,7 @@ Skills
 	padding: 2.5rem 1.3rem;
 	margin: 2rem 1.5rem;
 	max-height: 50vh;
+	min-height: 38vh;
 	background-color: black;
     color: #c89373;
     --aug-inset: 10px;
