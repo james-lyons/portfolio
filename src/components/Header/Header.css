@@ -1,0 +1,42 @@
+header {
+	background-color: black;
+	background-attachment: fixed;
+	height: 100vh;
+}
+
+header {
+	padding-top: 30px;
+	background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 a,
+h1 a:hover,
+header h2 {
+	color: #fff;
+}
+
+.header-div {
+    background: rgba(0,0,0,.4);
+    padding: 1em;
+	border-radius: 10px;
+	width: 45em;
+    border: 2px solid white;
+}
+
+.header-h1 {
+	color: white;
+	font-size: 3em;
+}
+
+.header-h2 {
+    color: white;
+}
+
+#type-writer {
+	font-size: 3em;
+	font-weight: 600; 
+	color: whitesmoke;
+	margin: 0 auto 1em;;
+	padding: 0;
+}
