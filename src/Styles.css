@@ -286,9 +286,9 @@ Skills
 
 .skills-h2 {
 	border: 1px solid white;
-	width: 5em;
-	margin: 0 auto 1.5em;
-	padding: .3em;
+	width: 10rem;
+	margin: 0 auto;
+	padding: 1rem;
 	background: rgba(0,0,0,.8)
 }
 
@@ -334,9 +334,9 @@ Projects
 }
 
 .projects-h2 {
-	width: 5.2em;
-	margin: 0 auto 2em;
-	padding: .3em;
+	width: 10rem;
+	margin: 0 auto;
+	padding: 1rem;
 	background-color: rgba(0,0,0,.8);
 	border: 1px solid white;
 }
