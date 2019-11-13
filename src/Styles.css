@@ -270,7 +270,7 @@ Skills
 .skills-div {
 	padding: 2.5rem 1.3rem;
 	margin: 2rem 1.5rem;
-	height: 50vh;
+	max-height: 50vh;
 	background-color: black;
     color: #c89373;
     --aug-inset: 10px;
@@ -293,16 +293,9 @@ Skills
 }
 
 .skills-h3 {
-	margin-top: 1.5em;
+	margin-top: 1.5rem;
 	font-size: 3em;
 	justify-self: center;
-}
-
-.skill-comfort-levels {
-	margin-top: 1.5em;
-	font-size: 1.8em;
-	justify-self: center;
-	display: none;
 }
 
 .skills-h4 {
@@ -313,14 +306,14 @@ Skills
 
 .skills-p {
 	word-break: break-word;
-	margin-bottom: 2.5rem;
-	font-size: 1.5rem;
+	margin: 3rem 0;
+	font-size: 1.3rem;
 }
 
 .skills-icon {
 	height: 55px;
 	width: 55px;
-	margin: 0 .5rem;
+	margin: 0 .2rem;
 }
 
 .graph-wrapper {
@@ -349,12 +342,13 @@ Projects
 }
 
 .projects-h3 {
-	margin: 1em 0;
-	font-size: 1.5em;
+	margin: 0;
+	font-size: 2.5rem;
 }
 
 .projects-p {
-	margin: 1.5em auto 2em;
+	margin: 1.5rem auto 2rem;
+	font-size: 1.4rem;
 }
 
 .projects-a {
@@ -470,6 +464,10 @@ Media Queries
 
 	section {
 		padding: 50px 0;
+	}
+
+	.skills-div {
+		max-height: 70vh;
 	}
 
 	.skills-icon {
