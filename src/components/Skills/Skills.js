@@ -14,7 +14,7 @@ const Skills = (props) => {
                         </div>
                     </div>
                     <div className="row skills-row">
-                        <div className="col-md-5">
+                        <div className="col-md-6">
                             <div className="service-box skills-div" augmented-ui="bl-clip r-clip-y br-round br-inset-clean exe">
                                 <div className="col-sm-12">
                                     <h3 className="skills-h3">Languages and Frameworks</h3>
@@ -34,7 +34,7 @@ const Skills = (props) => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-md-5">
+                        <div className="col-md-6">
                             <div className="service-box skills-div" augmented-ui="bl-clip r-clip-y br-round br-inset-clean exe">
                                 <div className="col-sm-12">
                                     <h3 className="skills-h3">Databases</h3>
@@ -48,7 +48,7 @@ const Skills = (props) => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-md-5">
+                        <div className="col-md-6">
                             <div className="service-box skills-div" augmented-ui="bl-clip r-clip-y br-round br-inset-clean exe">
                                 <div className="col-sm-12">
                                     <h3 className="skills-h3">Management and Deployment</h3>
@@ -62,7 +62,7 @@ const Skills = (props) => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-md-5">
+                        <div className="col-md-6">
                             <div className="service-box skills-div" augmented-ui="bl-clip r-clip-y br-round br-inset-clean exe">
                                 <div className="col-sm-12">
                                     <h3 className="skills-h3">Methodologies</h3>
