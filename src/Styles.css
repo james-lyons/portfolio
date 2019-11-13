@@ -73,13 +73,13 @@ a:hover {
 Lists
 ------------------------------------------- */
 
-ul a {
-	text-transform: none;
+ul {
+	padding: 1rem;
+	list-style: none;
 }
 
-ul {
-	padding: 0;
-	list-style: none;
+ul a {
+	text-transform: none;
 }
 
 li {
@@ -152,6 +152,7 @@ nav a {
 	letter-spacing: .05rem;
 	padding: 3px 60px;
 	padding: .2rem 4rem;
+	font-size: 1.3rem;
 	display: inline-block;
 	border-bottom: none;
     text-transform: uppercase;
@@ -337,8 +338,7 @@ Projects
 
 .projects-a {
 	font-size: 1.5em;
-	width: 90%;
-	margin: 0 .4em;
+	margin: 0 .5rem;
 	word-wrap: break-word;
 }
 
