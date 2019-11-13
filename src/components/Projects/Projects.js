@@ -6,13 +6,11 @@ const Projects = (props) => {
         <>
             <section id="projects">
                 <div id="projects-container" className="container">
-                    <div className="row">
-                        <div className="col-md-12">
-                            <div className="title-box text-center">
-                                <h2 className="projects-h2">
-                                    Projects
-                                </h2>
-                            </div>
+                    <div className="col-md-12">
+                        <div className="title-box text-center">
+                            <h2 className="projects-h2">
+                                Projects
+                            </h2>
                         </div>
                     </div>
                     <div className="row">

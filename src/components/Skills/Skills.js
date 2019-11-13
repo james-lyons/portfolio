@@ -6,11 +6,9 @@ const Skills = (props) => {
         <>
             <section id="skills">
                 <div id="skills-container" className="container">
-                    <div className="row">
-                        <div className="col-sm-12">
-                            <div className="title-box text-center">
-                                <h2 className="skills-h2">Skills</h2>
-                            </div>
+                    <div className="col-sm-12">
+                        <div className="title-box text-center">
+                            <h2 className="skills-h2">Skills</h2>
                         </div>
                     </div>
                     <div className="row">
