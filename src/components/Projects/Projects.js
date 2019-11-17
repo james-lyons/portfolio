@@ -9,7 +9,7 @@ const Projects = (props) => {
                     <div className="col-md-12">
                         <div className="title-box text-center">
                             <h2 className="projects-h2">
-                                Projects
+                                Some of my recent projects
                             </h2>
                         </div>
                     </div>
