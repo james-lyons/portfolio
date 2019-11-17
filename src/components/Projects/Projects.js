@@ -17,7 +17,7 @@ const Projects = (props) => {
                         <div className="col-md-6">
                             <div className="projects-div" augmented-ui="bl-clip r-clip-y br-round br-inset-clean exe">
                                 <div className="projects-img" >
-                                    <img src="../../assets/images/Git-Sum-Dim-Sum.png" alt="" className="img-fluid" />
+                                    <img src="/assets/images/Git-Sum-Dim-Sum.png" alt="" className="img-fluid" />
                                 </div>
                                 <div className="projects-content">
                                     <div className="col-sm-12">
@@ -35,7 +35,7 @@ const Projects = (props) => {
                         <div className="col-md-6">
                             <div className="projects-div" augmented-ui="bl-clip r-clip-y br-round br-inset-clean exe">
                                 <div className="projects-img">
-                                    <img src="../../assets/images/legal-eagles.png" alt="" className="img-fluid" />
+                                    <img src="/assets/images/legal-eagles.png" alt="" className="img-fluid" />
                                 </div>
                                 <div className="projects-content">
                                     <div className="col-sm-12">
@@ -53,7 +53,7 @@ const Projects = (props) => {
                         <div className="col-md-6">
                             <div className="projects-div" augmented-ui="bl-clip r-clip-y br-round br-inset-clean exe">
                                 <div className="projects-img">
-                                    <img src="../../assets/images/karuta.png" alt="" className="img-fluid" />
+                                    <img src="/assets/images/karuta.png" alt="" className="img-fluid" />
                                 </div>
                                 <div className="projects-content">
                                     <div className="col-sm-12">
@@ -71,7 +71,7 @@ const Projects = (props) => {
                         <div className="col-md-6">
                             <div className="projects-div" augmented-ui="bl-clip r-clip-y br-round br-inset-clean exe">
                                 <div className="projects-img">
-                                    <img src="../../assets/images/my-baking-pal-wireframe.png" alt="" className="img-fluid" />
+                                    <img src="/assets/images/my-baking-pal-wireframe.png" alt="" className="img-fluid" />
                                 </div>
                                 <div className="projects-content">
                                     <div className="col-sm-12">
