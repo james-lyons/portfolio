@@ -479,6 +479,12 @@ Media Queries
 	}
 }
 
+@media (max-width: 767px) {
+	.projects-h2 {
+		width: 20rem;
+	}
+}
+
 @media (min-width: 370px) {
 	html {
 		font-size: 14px;
