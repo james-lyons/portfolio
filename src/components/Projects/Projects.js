@@ -17,7 +17,7 @@ const Projects = (props) => {
                         <div className="col-md-6">
                             <div className="projects-div" augmented-ui="bl-clip r-clip-y br-round br-inset-clean exe">
                                 <div className="projects-img" >
-                                    <a className="projects-a" href="https://git-sum-dim-sum-react.herokuapp.com/" target="_blank" without rel="noopener noreferrer"><img src="/assets/images/Git-Sum-Dim-Sum.png" alt="" className="img-fluid" /></a>
+                                    <a href="https://git-sum-dim-sum-react.herokuapp.com/" target="_blank" without rel="noopener noreferrer"><img src="/assets/images/Git-Sum-Dim-Sum.png" alt="" className="img-fluid" /></a>
                                 </div>
                                 <div className="projects-content">
                                     <div className="col-sm-12">
@@ -35,7 +35,7 @@ const Projects = (props) => {
                         <div className="col-md-6">
                             <div className="projects-div" augmented-ui="bl-clip r-clip-y br-round br-inset-clean exe">
                                 <div className="projects-img">
-                                    <a className="projects-a" href="https://legal-eagles-react.herokuapp.com/" target="_blank" without rel="noopener noreferrer"><img src="/assets/images/legal-eagles.png" alt="" className="img-fluid" /></a>
+                                    <a href="https://legal-eagles-react.herokuapp.com/" target="_blank" without rel="noopener noreferrer"><img src="/assets/images/legal-eagles.png" alt="" className="img-fluid" /></a>
                                 </div>
                                 <div className="projects-content">
                                     <div className="col-sm-12">
@@ -53,7 +53,7 @@ const Projects = (props) => {
                         <div className="col-md-6">
                             <div className="projects-div" augmented-ui="bl-clip r-clip-y br-round br-inset-clean exe">
                                 <div className="projects-img">
-                                    <a className="projects-a" href="https://karuta-react.herokuapp.com/" target="_blank" without rel="noopener noreferrer"><img src="/assets/images/karuta.png" alt="" className="img-fluid" /></a>
+                                    <a href="https://karuta-react.herokuapp.com/" target="_blank" without rel="noopener noreferrer"><img src="/assets/images/karuta.png" alt="" className="img-fluid" /></a>
                                 </div>
                                 <div className="projects-content">
                                     <div className="col-sm-12">
