@@ -76,7 +76,7 @@ const Projects = (props) => {
                                 <div className="projects-content">
                                     <div className="col-sm-12">
                                         <h3 className="projects-h3">MyBakingPal</h3>
-                                        <p className="projects-p">MyBakingPal is the next project I'll be working on. It'll have a profile page with a gallery section for users to post photos of their latest cullinary masterpieces, a recipie page for users to store their favorite confections to create, an events page for users to create and sign-up to local co-op baking extravaganzas, and an admin page to sort user requests (to create the events). I'll be building it utilizing React Native and Redux to render the frontend, with webpack and babel, as I'd like to be able to transition this into a mobile app, with Python and Django to serve the backend. I'd also like to finally be able to utilize google maps (to provide directions for baking events) as I've tried in multiple projects but I've had to scrap the idea as it posed a security risk I couldn't deal with given the technologies I was using.</p>
+                                        <p className="projects-p">MyBakingPal is the next project I'll be working on. It'll have a profile page with a gallery section for users to post photos of their latest cullinary masterpieces, a recipie page for users to store their favorite confections to create, an events page for users to create and sign-up to local co-op baking extravaganzas, and an admin page to sort user requests (to create the events).</p>
                                     </div>
                                 </div>
                             </div>
