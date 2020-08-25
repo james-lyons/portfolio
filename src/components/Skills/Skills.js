@@ -16,18 +16,16 @@ const Skills = (props) => {
                             <div className="skills-div" augmented-ui="bl-clip r-clip-y br-round br-inset-clean exe">
                                 <div className="col-sm-12">
                                     <h3 className="skills-h3">Languages and Frameworks</h3>
-                                    <p className="col-md-12 skills-p">CSS, HTML, JavaScript, React, Redux, Ajax, jQuery, Node, Express, Python, Django, Flask</p>
+                                    <p className="col-md-12 skills-p">CSS, HTML, JavaScript, Typescript, React, Redux, jQuery, Node, Express, Python</p>
                                     <div className="col-md-12">
-                                        <img className="skills-icon" src="./assets/icons/html5-icon.png" alt=""/>
+                                        <img className="skills-icon" src="assets/icons/html5-icon.png" alt=""/>
                                         <img className="skills-icon" src="assets/icons/css3-icon.png" alt=""/>
-                                        <img className="skills-icon" src="assets/icons/javascript-icon.png" alt=""/>
+                                        <img className="skills-icon" src="assets/icons/typescript.png" alt=""/>
+                                        <img className="skills-icon" src="assets/icons/javascript-icon.svg" alt=""/>
                                         <img className="skills-icon" src="assets/icons/node-icon.jpg" alt=""/>
                                         <img className="skills-icon" src="assets/icons/react.png" alt=""/>
-                                        <img className="skills-icon" src="assets/icons/ajax-icon.png" alt=""/>
                                         <img className="skills-icon" src="assets/icons/jquery-icon.png" alt=""/>
                                         <img className="skills-icon" src="assets/icons/python.png" alt=""/>
-                                        <img className="skills-icon" src="assets/icons/django-logo.png" alt=""/>
-                                        <img className="skills-icon" src="assets/icons/flask-icon.png" alt="" />
                                     </div>
                                 </div>
                             </div>
